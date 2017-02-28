@@ -35,12 +35,12 @@ It presents 4 simulation experiments using Cloudsim, 7 Instances of AWS (Amazon 
 3. Each VM has 14 (fourteen) Cloudlets to itself
 4. Each VM has 7 (seven) Cloudlets to itself, but in this case the cloudlets uses total number of cores present in VM, using 100% of processing power of each VM
 
-The Cloudlet profile is
-- Total lengh: 900000000 (MIPS);
+###### The Cloudlet profile is
+- Total length: 900000000 (MIPS);
 - Total MB in disk: 300;
 - Total MB in memory: 300;
 
-The Host (Physical Machine) in simulation is
+###### The Host (Physical Machine) in simulation is
 - 21 Cores of processing
 - RAM = 68 * 1024; // host memory (MB)
 - Storage = 1000000; // host storage
