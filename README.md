@@ -8,8 +8,9 @@ Projeto da Disciplina de Sistemas Distribuídos do curso de Bacharelado em Ciên
 
 Installation instructions for Java 7 and Maven can be found here:
 
-http://docs.oracle.com/javase/7/docs/webnotes/install/
-http://maven.apache.org/download.cgi#Installation
+[Java 7 Install] (http://docs.oracle.com/javase/7/docs/webnotes/install/)
+
+[Apache Maven Install] (http://maven.apache.org/download.cgi#Installation)
 
 You should also have installed [Eclipse IDE Java EE Developers](https://www.eclipse.org/downloads/) and SVN and GIT clients. If you’re unfamiliar with CloudSim itself, you can look at [these examples](http://www.cloudbus.org/cloudsim/examples.html).
 
@@ -27,7 +28,8 @@ Project of the Distributed Systems Discipline of the Bachelor's Degree in Comput
 
 It presents 4 simulation experiments using Cloudsim, 7 Instances of AWS (Amazon Web Services EC2) T2 model are created (Nano, Micro, Small, Medium, Large, XLarge, 2XLarge).
 
-The experiments short description:
+###### The experiments short description:
+
 1. Each VM has 1 (one) Cloudlet to itself
 2. Each VM has 7 (seven) Cloudlets to itself
 3. Each VM has 14 (fourteen) Cloudlets to itself
