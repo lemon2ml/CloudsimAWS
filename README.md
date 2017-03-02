@@ -41,7 +41,7 @@ It presents 4 simulation experiments using Cloudsim, 7 Instances of AWS (Amazon 
 - Total MB in memory: 300;
 
 ###### The Host (Physical Machine) in simulation is
-- 21 Cores of processing
+- 20 Cores of processing
 - RAM = 68 * 1024; // host memory (MB)
 - Storage = 1000000; // host storage
 - Bandwidth = 10000;
