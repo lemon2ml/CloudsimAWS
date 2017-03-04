@@ -333,27 +333,27 @@ public class Experimento {
 		
 		switch (tipo){
 			case 1: // micro
-				ram = 512;
+				ram = 1024;
 				pesNumber = 1;
 				break;
 			case 2: // small
-				ram = 512;
+				ram = 2048;
 				pesNumber = 1;
 				break;
 			case 3: // medium
-				ram = 512;
+				ram = 4096;
 				pesNumber = 2;
 				break;
 			case 4: // large
-				ram = 512;
+				ram = 8192;
 				pesNumber = 2;
 				break;
 			case 5: // xlarge
-				ram = 512;
+				ram = 16384;
 				pesNumber = 4;
 				break;
 			case 6: // 2xlarge
-				ram = 512;
+				ram = 32768;
 				pesNumber = 8;
 				break;
 			default: // Nano
